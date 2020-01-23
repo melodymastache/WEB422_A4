@@ -1,3 +1,7 @@
+# WEB422_A4
+Project coded for Seneca College's WEB422 course. This project registers a service based on a remote URL that contains unparsed JSON data, then uses this data to populate pages. Slow load times.
+>>>>>>> 5ca18c3ec801fd2ccfac1857eb5507f51346e92e
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
