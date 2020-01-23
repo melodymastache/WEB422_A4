@@ -1,6 +1,5 @@
 # WEB422_A4
 Project coded for Seneca College's WEB422 course. This project registers a service based on a remote URL that contains unparsed JSON data, then uses this data to populate pages. Slow load times.
->>>>>>> 5ca18c3ec801fd2ccfac1857eb5507f51346e92e
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
